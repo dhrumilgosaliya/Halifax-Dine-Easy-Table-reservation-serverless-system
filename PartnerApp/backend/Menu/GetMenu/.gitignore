@@ -1,0 +1,4 @@
+my_deployment_package.zip
+/node_modules
+node_modules
+package-lock.json
